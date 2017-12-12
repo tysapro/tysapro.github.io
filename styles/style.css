@@ -1,0 +1,50 @@
+html {
+  background-color: #336611;
+} 
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #DDDDDD;
+  padding: 10px 40px 60px 40px;
+  border: 3px solid darkmagenta;
+}
+
+h1 {
+    font-size: 36px;  
+    font-family: Nunito;
+    color:darkmagenta;
+    width: 640px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;    
+/*    border: 1px solid black;*/
+    text-shadow: 2px 1px 1px black;
+}
+
+img {
+    display: block;
+    width: 360px;
+/*    border: 1px solid red;*/
+    margin: 0 auto; 
+/*    auto центрирует img за счет расчета равных отступов слева и справа*/
+}
+
+p, li {
+    font-size: 16px;  
+    width: 640px;
+    color:darkolivegreen;
+    font-family: Nunito;
+    letter-spacing: 1px;
+    margin: 10px auto;
+}
+
+button {
+    display: block;
+    font-size: 16px;  
+    width: 150px;
+    color:darkolivegreen;
+    font-family: Nunito;
+    letter-spacing: 1px;
+    margin: 0 auto;
+}
