@@ -18,14 +18,14 @@ h1 {
     text-align: center;
     margin: 0 auto;
     padding: 20px 0;    
-/*    border: 1px solid black;*/
+/*! border: 1px solid black; */
     text-shadow: 2px 1px 1px black;
 }
 
 img {
     display: block;
     width: 360px;
-/*    border: 1px solid red;*/
+/*! border: 1px solid red; */
     margin: 0 auto; 
 /*    auto центрирует img за счет расчета равных отступов слева и справа*/
 }
